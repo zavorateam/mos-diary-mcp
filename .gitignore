@@ -1,0 +1,8 @@
+.venv
+__pycache__
+.diary_config
+session.json
+tests/__pycache__/
+*.log
+services/__pychache__/
+.pytest_cache
